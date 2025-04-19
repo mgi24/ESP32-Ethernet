@@ -5,3 +5,5 @@ PINOUT
 
 
 How to use? Check this video!
+
+https://youtu.be/1lG3cb2bqtA
